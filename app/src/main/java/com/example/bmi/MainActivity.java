@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                     else
                         Toast.makeText(MainActivity.this," !!! RISK CONSULT DOCTOR ",Toast.LENGTH_SHORT).show();
                 textView.setText(string);
+                Toast.makeText(MainActivity.this,"Spider Sucks",Toast.LENGTH_SHORT).show();
 
         }
 
